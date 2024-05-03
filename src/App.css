@@ -1,0 +1,42 @@
+form{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 200px;
+}
+
+#nome{
+    border-radius: 6px;
+}
+#email{
+    border-radius: 6px;
+}
+#senha{
+    border-radius: 6px;
+}
+#nome{
+    border-radius: 6px;
+}
+#cep{
+    border-radius: 6px;
+}
+#rua{
+    border-radius: 6px;
+}
+#numero{
+    border-radius: 6px;
+}
+#bairro{
+    border-radius: 6px;
+}
+#cidade{
+    border-radius: 6px;
+}
+#estado{
+    border-radius: 6px;
+}
+
+button{
+    margin: 20px;
+}
